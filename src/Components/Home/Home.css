@@ -1,0 +1,9 @@
+.HomeMainContainer{
+    background-image: url('../../assets/bg.PNG');
+    background-size:cover;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
+
