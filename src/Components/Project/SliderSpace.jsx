@@ -22,7 +22,7 @@ let data = [
   {
     title: "Pequeños Gigantes",
     img: img1,
-    link:"https://www.centropequenosgigantes.com",
+    link:"https://centropequenosgigantes.vercel.app/",
     disc: "Centro de terapias “Pequeños gigantes” donde se creó un sistema de reserva de citas una pasarela de pagos y un acceso para usuarios, profesionales y administradores.",
   },
   {
@@ -33,7 +33,7 @@ let data = [
   },
   {
     title: "Voces del Alba",
-    link:"https://vocesdelalba.vercel.app",
+    link:"https://corodelalba.vercel.app",
     img: img3,
     disc: "Coro “Voces del Alba” un lugar donde cada integrante podrá escuchar los temas que les toca aprender por voces. ",
   },
@@ -45,7 +45,7 @@ let data = [
   },
   {
     title: "Mireya Pedroza",
-    link:"https://profemireyita.vercel.app",
+    link:"https://matematicafacilprofemireyita.com",
     img: img5, 
     disc: "Portafolio de profesora de matemáticas quien ofrece clases virtuales y presenciales.",
   },
